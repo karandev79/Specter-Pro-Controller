@@ -1,5 +1,5 @@
 <div align="center">
-<img width="356" height="430" alt="image" src="https://github.com/user-attachments/assets/87231b27-89f7-424b-b787-04ddd8ce7742" />
+<img width="901" height="430" alt="image" src="https://github.com/user-attachments/assets/1752704f-f997-4aec-9608-b34cf37928c5" />
 </div>
 
 
@@ -30,6 +30,10 @@ Raw PCB Retro Style Game Controller
 | | | |
 | **Shipping Estimate** | **$0.56** | |
 | **Total** | **$7.58** | |
+
+===================================
+
+| **PCB** | **$28.23** | |
 
 ---
 
