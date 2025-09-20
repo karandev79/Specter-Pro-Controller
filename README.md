@@ -21,12 +21,9 @@ Raw PCB Retro Style Game Controller
 ## Bill of Materials (BOM)
 | Name | Price | Amount |
 | :--- | :--- | :--- |
-| [Tact Switch TVDP01- 6.0X6.0mm](https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm/)
- | $0.34 | 10 |
-| [KFC-A06W1-7.0-Tact Switch with Bracket -2 Pin(6x6x7)](https://robu.in/product/kfc-a06w1-7-0-tact-switch-with-bracket-2-pin6x6x7/)
- | $0.068 | 2 |
- | [Seeed Studio XIAO RP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/)
- | $6.62 | 1 |
+| [Tact Switch TVDP01- 6.0X6.0mm](https://robu.in/product/tact-switch-tvdp01-6-0x6-0mm/) | $0.34 | 10 |
+| [KFC-A06W1-7.0-Tact Switch with Bracket -2 Pin(6x6x7)](https://robu.in/product/kfc-a06w1-7-0-tact-switch-with-bracket-2-pin6x6x7/) | $0.068 | 2 |
+| [Seeed Studio XIAO RP2040](https://robu.in/product/seeed-studio-xiao-rp2040-v1-0/) | $6.62 | 1 |
 | | | |
 | **Shipping Estimate** | **$0.56** | |
 | **Total** | **$7.58** | |
